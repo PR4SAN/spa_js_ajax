@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+nav {
+  background-color: #1abc9c;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+  padding: 20px;
+}
+#view {
+  height: 400px;
+  background-color: #2c3e50;
+  padding-top: 20px;
+  text-align: center;
+  font-size: 30px;
+  color: #ffffff;
+}
